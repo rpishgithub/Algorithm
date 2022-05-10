@@ -9,6 +9,7 @@
         <module name="MergeLinkedList" />
         <module name="LongestCommonPrefix" />
         <module name="ReverseLinkedList" />
+        <module name="Palindrome" />
         <module name="ReplaceSpace" />
       </profile>
     </annotationProcessing>
