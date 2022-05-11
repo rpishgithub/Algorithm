@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="BracketPairDepth" />
+        <module name="Palindrome" />
         <module name="MergeLinkedList" />
         <module name="LongestCommonPrefix" />
-        <module name="BracketPairDepth" />
         <module name="ReverseLinkedList" />
-        <module name="Palindrome" />
+        <module name="StringToInteger" />
         <module name="ReplaceSpace" />
       </profile>
     </annotationProcessing>
