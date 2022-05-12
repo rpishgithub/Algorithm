@@ -11,6 +11,7 @@
         <module name="MergeLinkedList" />
         <module name="LongestCommonPrefix" />
         <module name="ReverseLinkedList" />
+        <module name="AddTwoNumbers" />
         <module name="StringToInteger" />
         <module name="ReplaceSpace" />
       </profile>

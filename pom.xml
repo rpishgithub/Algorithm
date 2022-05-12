@@ -16,6 +16,7 @@
         <module>Palindrome</module>
         <module>BracketPairDepth</module>
         <module>StringToInteger</module>
+        <module>AddTwoNumbers</module>
     </modules>
 
     <properties>
